@@ -1,3 +1,8 @@
+/**
+ * Irrigação automática com sensor de umidade de solo + motor
+ *
+ * @author Thiago Paes <mrprompt@gmail.com>
+ **/
 #include <Servo.h>
 
 Servo waterServo;  //creates the name of your servo
